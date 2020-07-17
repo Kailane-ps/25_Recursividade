@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\bin\Debug\netcoreapp3.1\25_Recursividade.exe
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\bin\Debug\netcoreapp3.1\25_Recursividade.deps.json
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\bin\Debug\netcoreapp3.1\25_Recursividade.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\bin\Debug\netcoreapp3.1\25_Recursividade.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\bin\Debug\netcoreapp3.1\25_Recursividade.dll
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\bin\Debug\netcoreapp3.1\25_Recursividade.pdb
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\obj\Debug\netcoreapp3.1\25_Recursividade.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\obj\Debug\netcoreapp3.1\25_Recursividade.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\obj\Debug\netcoreapp3.1\25_Recursividade.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\obj\Debug\netcoreapp3.1\25_Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\obj\Debug\netcoreapp3.1\25_Recursividade.dll
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\obj\Debug\netcoreapp3.1\25_Recursividade.pdb
+C:\Users\Kailane\Desktop\SENAI K\25_Recursividade\obj\Debug\netcoreapp3.1\25_Recursividade.genruntimeconfig.cache
